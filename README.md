@@ -1,6 +1,7 @@
 # Subsites Module
 
 [![Build Status](https://secure.travis-ci.org/silverstripe/silverstripe-subsites.png?branch=master)](http://travis-ci.org/silverstripe/silverstripe-subsites)
+![helpfulrobot](https://helpfulrobot.io/silverstripe/subsites/badge)
 
 ## Introduction
 
